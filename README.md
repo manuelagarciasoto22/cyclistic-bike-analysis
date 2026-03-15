@@ -34,6 +34,5 @@ Estos resultados permiten comprender las diferencias en el comportamiento de los
 ## Archivos del proyecto
 
 - Dashboard desarrollado en Power BI
-- Dataset utilizado para el análisis
 - Informe
 - Captura del dashboard
